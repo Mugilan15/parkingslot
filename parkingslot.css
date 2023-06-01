@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+    color: yellow;
+}
+#vechileno{
+    margin-left: 72px;
+}
+#vechiletype{
+    margin-left: 55px;
+}
+#ownername{
+    margin-left: 50px;
+}
+#checkin{
+    margin-left: 42px;
+}
+#checkout{
+    margin-left: 35px;
+}
+#but{
+    padding: 5px 20px ;
+    background-color:cyan;
+    margin-left: 500px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+
+tr,td,th,thead,tbody,table{
+    border: 1px solid azure;
+    border-collapse: collapse;
+    color: rgb(227, 18, 39);
+    
+}
+
+table{
+    margin-top: 150px;
+    width: 100%;
+}
+tr{
+    text-align: center;
+}
+   body{
+    background-image: url(../multi-storey-car-park-2705368_1280.jpg);
+   } 
+   label{
+    color:rgb(227, 18, 39);;
+   }
+    
